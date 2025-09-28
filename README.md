@@ -19,7 +19,7 @@ The following steps have been implemented:
 - Complaint category distribution
 - Complaint length distribution
 
-![Complaint Categories and Length Distribution](screenshots/complaint_categories_and_complaint_length_distribution.png)  
+![Complaint Categories and Length Distribution](complaint_categories_and_complaint_length_distribution.png)  
 
 ---
 
@@ -27,7 +27,7 @@ The following steps have been implemented:
 - Text cleaning: lowercase, remove numbers, punctuation, extra spaces
 - Display of cleaned text
 
-![Text Pre-processing](screenshots/preprocessing.png)  
+![Text Pre-processing](preprocessing.png)  
 
 ---
 
@@ -35,7 +35,7 @@ The following steps have been implemented:
 - Multi-class classification models selected
 - Model hyperparameters and setup
 
-![Model Selection](screenshots/modelselection.png)  
+![Model Selection](modelselection.png)  
 
 ---
 
@@ -43,7 +43,7 @@ The following steps have been implemented:
 - Comparison of models using metrics like accuracy, F1-score
 - Visualization of model performance
 
-![Model Accuracy Comparison](screenshots/model_Accuracy_Comparision.png)  
+![Model Accuracy Comparison](model_Accuracy_Comparision.png)  
 
 ---
 
@@ -51,7 +51,7 @@ The following steps have been implemented:
 - Confusion matrix of best model
 - Classification report with precision, recall, F1-score
 
-![Model Evaluation Confusion Matrix](screenshots/Model_Evaluation_Confusion_Matrix-LogisticRegression.png)  
+![Model Evaluation Confusion Matrix](Model_Evaluation_Confusion_Matrix-LogisticRegression.png)  
 
 ---
 
