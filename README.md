@@ -59,7 +59,7 @@ The following steps have been implemented:
 - Sample predictions on test data
 - Final predictions output
 
-![Predicted Categories](screenshots/Predicted_Category.png)  
+![Predicted Categories](Predicted_Category.png)  
 
 ---
 
